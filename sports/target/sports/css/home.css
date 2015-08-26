@@ -1,0 +1,111 @@
+@CHARSET "UTF-8";
+
+.main_container{
+  background-color: #fafafa;
+}
+
+.main_div{
+	padding-top:20px;
+}
+.header_content{
+	height : 70px;
+ 	 border-bottom: 1px solid #fefefe;
+}
+
+.content_header_style{
+	color: #2b7bb9;
+	font-size: 24px;
+	font-weight: bold;
+	text-shadow: 1px 1px #eeeeee;	
+}  
+.content_brief_header_style{
+	color: #2b7bb9;
+	font-size: 28px;
+	font-weight: bold;
+	text-shadow: 1px 1px #eeeeee;	
+}
+
+.main_content{
+	  background-color: #ffffff;
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #dddddd;
+	padding: 15px;
+	margin-top : 20px;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 22px #cccccc;}
+
+
+.detailed_list_content{
+	
+}
+
+.personal_information_content{
+	padding-bottom:40px;
+}
+
+.league_stats_content{
+	padding-bottom:40px;
+}
+
+.match_statistics_content{
+	padding-bottom:40px;
+}
+
+.rating_statistics_content{
+	padding-bottom:40px;
+}
+
+.back_button{
+	float : right;
+	margin-right : 20px;
+ 	margin-top: -50px;
+}
+
+.header_content_div_text{
+	font-size : 30px;
+	color: #2b7bb9;
+ 	font-weight: bold;
+  	text-shadow: 0px 2px #eeeeee;
+}
+
+.header_content_div{
+	width: 620px;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	padding-top: 15px
+}
+
+.footer_content_div{
+	width: 1100px;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	padding-top: 15px;
+ 	padding-left: 20px;
+}
+
+.content_background_gradient{
+	background: #eeeeee; /* Old browsers */
+	background: -moz-linear-gradient(top,  #eeeeee 0%, #dddddd 54%, #cccccc 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(54%,#dddddd), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #eeeeee 0%,#dddddd 54%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #eeeeee 0%,#dddddd 54%,#cccccc 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #eeeeee 0%,#dddddd 54%,#cccccc 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #eeeeee 0%,#dddddd 54%,#cccccc 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+		
+}
+
+.footer_content{
+	height : 70px;
+	border-top: 1px solid #fff;
+
+}
+
+.footer_content_div_text{
+	font-size : 13px;
+	color: #2b7bb9;
+  	text-shadow: 0px 2px #eeeeee;
+  	font-style: italic;;
+}

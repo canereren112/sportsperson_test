@@ -1,0 +1,9 @@
+package com.mobenga.sports.configuration;
+
+public class SportConfigConstants {
+	
+	public final static String SPORTS_PERSON_FILE_NAME = "players.csv";
+	public final static String SPORTS_PERSON_RESOURCE_PATH = "C:/My_Projects/Mobenga_Test/sports/src/main/resources/";
+	public final static String CVS_COMMA_SEPERATOR = ",";
+	public final static String HYPHEN_SEPERATOR = "-";
+}

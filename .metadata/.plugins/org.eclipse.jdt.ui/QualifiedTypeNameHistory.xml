@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mobenga.sports.util.SystemConfigurationUtil"/>
+<fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.helper.CastingHelper"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.test.Statistics"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.test.Person"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.template.ISportsPersonTemplateBrief"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.template.SportsPersonTemplateImpl"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.model.RatioInformation"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.model.LeaugueStats"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.model.PersonalInformation"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.model.MatchStatistics"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.enums.TournamentName"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.enums.TournamentShortName"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.enums.Position"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.service.SportsPersonService"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.template.SportsPersonTemplateAdapter"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.util.FileUtil"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.model.SportsPerson"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.session.SessionData"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.util.EnumUtil"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.model.enums.CountryCodes"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ExceptionHandler"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.exception.ServiceResponse"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseStatus"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.exception.ServiceRuntimeException"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.exception.ResponseCodes"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.cache.CacheData"/>
+<fullyQualifiedTypeName name="org.junit.Ignore"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.convert.BriefPersonDTO"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.convert.DetailedPersonDTO"/>
+<fullyQualifiedTypeName name="com.mobenga.sports.mock.DetailedPersonMockData"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,148 @@
+1436878044650	Encapsulate field 'ranking'
+1436878060799	Encapsulate field 'seasonId'
+1436878066745	Encapsulate field 'seasonName'
+1436878078825	Encapsulate field 'tournamentId'
+1436878088345	Encapsulate field 'tournamentRegionId'
+1436878093814	Encapsulate field 'tournamentRegionCode'
+1436878108519	Encapsulate field 'regionCode'
+1436878113618	Encapsulate field 'tournamentName'
+1436878118249	Encapsulate field 'tournamentShortName'
+1436878122524	Encapsulate field 'firstName'
+1436878127041	Encapsulate field 'lastName'
+1436878133526	Encapsulate field 'playerId'
+1436878138693	Encapsulate field 'isActive'
+1436879330934	Encapsulate field 'isOpta'
+1436879335992	Encapsulate field 'teamId'
+1436879340463	Encapsulate field 'teamName'
+1436879344896	Encapsulate field 'playedPositions'
+1436879349290	Encapsulate field 'age'
+1436879361970	Encapsulate field 'height'
+1436879369021	Encapsulate field 'weight'
+1436879373807	Encapsulate field 'positionText'
+1436879381567	Encapsulate field 'apps'
+1436879387049	Encapsulate field 'subOn'
+1436879394243	Encapsulate field 'minsPlayed'
+1436879398548	Encapsulate field 'rating'
+1436879403487	Encapsulate field 'goal'
+1436879407217	Encapsulate field 'assistTotal'
+1436879410919	Encapsulate field 'yellowCard'
+1436879415695	Encapsulate field 'redCard'
+1436879419719	Encapsulate field 'shotsPerGame'
+1436879423778	Encapsulate field 'aerialWonPerGame'
+1436879428764	Encapsulate field 'manOfTheMatch'
+1436879433370	Encapsulate field 'name'
+1436879437669	Encapsulate field 'isManOfTheMatch'
+1436879441579	Encapsulate field 'playedPositionsShort'
+1436879460909	Encapsulate field 'passSuccess'
+1436885463993	Rename package 'com.mobenga.sports.model'
+1436885579713	Encapsulate field 'score'
+1436885585005	Encapsulate field 'passRate'
+1436885664994	Encapsulate field 'name'
+1436885669524	Encapsulate field 'stats'
+1436885985217	Copy file
+1436885990377	Rename resource 'Copy of home.jsp'
+1436886372248	Delete element
+1436886384124	Move 'myUsers.js' to 'data'
+1436886387261	Move 'myUsers.js' to 'js'
+1436887466431	Move folder
+1436893480555	Rename resource 'sportsPersons.js'
+1436893486772	Copy file
+1436893494650	Rename resource 'Copy of sportsPersons_old.js'
+1436893575577	Rename resource 'home.jsp'
+1436893586771	Copy file
+1436895357759	Encapsulate field 'position'
+1436896100231	Rename package 'com.mobenga.sport.template'
+1436896107338	Delete element
+1436896119740	Delete element
+1436896798443	Rename type 'SportsPersonTemplateImpl'
+1436896867030	Encapsulate field 'result'
+1436897534313	Move compilation unit
+1436904248289	Rename type 'SeasonStats'
+1436904586194	Encapsulate field 'rating'
+1436904602861	Encapsulate field 'shotsPerGame'
+1436904607879	Encapsulate field 'aerialWonPerGame'
+1436904613398	Encapsulate field 'passSuccess'
+1436904665259	Encapsulate field 'ratioInformation'
+1436904845612	Delete element
+1436904855482	Rename package 'com.mobenga.sports.factoru'
+1436905187147	Delete element
+1436905236948	Delete element
+1436905285368	Encapsulate field 'leaugueStats'
+1436905289405	Encapsulate field 'personalInformation'
+1436905293693	Encapsulate field 'matchStatistics'
+1436905712034	Rename type 'TournamentCode'
+1436905738798	Encapsulate field 'tournamentName'
+1436905743602	Encapsulate field 'tournamentShortName'
+1436906511654	Rename type 'Position'
+1436906517302	Rename type 'TournamentName'
+1436906523829	Rename type 'TournamentShortName'
+1436906984708	Move compilation unit
+1436908703134	Delete element
+1436908762792	Encapsulate field 'sportsPersonList'
+1436958774013	Delete element
+1436978607724	Encapsulate field 'playerId'
+1436979512253	Copy compilation unit
+1436979848555	Delete elements
+1436989500040	Encapsulate field 'sportsPersonMap'
+1436989815760	Rename type 'SportsPersonTemplateAdapter'
+1436989824017	Rename type 'SystemConfigurationUtil'
+1436989870158	Rename type 'SportsPersonTemplateAdapterDetailed'
+1436989884550	Rename type 'SportsPersonTemplateAdapterBrief'
+1436990057973	Rename local variable 'sPersonTemplateBrief'
+1436991883893	Move 'home.css' to 'CSS'
+1436991897817	Rename resource 'CSS'
+1436994556794	Rename type 'PositionEnum'
+1436994562067	Rename type 'TournamentNameEnum'
+1436994568010	Rename type 'TournamentShortNameEnum'
+1436995425991	Rename package 'com.mobenga.sports.modele.enums'
+1436995434537	Move compilation unit
+1436995438489	Move compilation unit
+1436995442346	Move compilation unit
+1436995456174	Delete element
+1436995470125	Rename package 'com.mobenga.sports.session'
+1436995479735	Rename type 'SessionData'
+1437028012237	Rename enum constant 'MIDFILDER'
+1437028476454	Rename type 'BriefPersonTemplateAdapter'
+1437028483306	Rename type 'DetailedPersonTemplateAdapter'
+1437028540605	Rename package 'com.mobenga.sports.template'
+1437028617929	Rename local variable 'briefPersonTemplate'
+1437028653695	Rename method 'createBriefTemplateList'
+1437028746607	Rename local variable 'briefPersonTemplateList'
+1437028761198	Rename local variable 'briefTemplateAdapter'
+1437028860042	Rename method 'createTemplateFromSportsPerson'
+1437028876370	Rename local variable 'detailedPersonTemplate'
+1437028925416	Rename type 'CastingHelper'
+1437028932028	Rename type 'TemplateHelper'
+1437028938042	Rename type 'TransformationHelper'
+1437028947468	Move compilation units
+1437028953339	Delete element
+1437029028495	Rename package 'com.mobenga.sports.transform'
+1437029082769	Rename type 'ModelTransformer'
+1437030324759	Delete element
+1437030487783	Delete element
+1437030601476	Delete element
+1437030672131	Rename method 'createDetailedDTOFromSpor'
+1437030720921	Rename type 'SportsPersonService'
+1437030738752	Rename type 'SportsPersonRestController'
+1437033173876	Rename resource 'sportsPersons.js'
+1437048856662	Rename type 'ShortPositions'
+1437050196688	Rename type 'ShortPosition'
+1437050251742	Encapsulate field 'playedPositions'
+1437050317541	Rename type 'CastingUtil'
+1437050765855	Rename field 'CVS_SEPERATOR'
+1437051451965	Encapsulate field 'playedPositionList'
+1437060178908	Delete element
+1437060707010	Delete element
+1437060709853	Delete element
+1437060711963	Delete element
+1437060714361	Delete element
+1437118248803	Rename local variable 'playedPositionList'
+1437128192657	Rename package 'com.mobenga.sports.transformer'
+1437128210129	Rename type 'TransformationUtil'
+1437128751920	Rename method 'createBriefTemplateFromSportsPerson'
+1437135850174	Delete elements
+1437135905704	Delete element
+1437135925774	Delete element
+1437143525700	Rename resource 'home.jsp'
+1437170555430	Delete elements
+1437170560016	Delete element
